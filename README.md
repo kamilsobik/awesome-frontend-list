@@ -31,18 +31,18 @@ Below you can find usefull links for frontend developer.
 - [TypeScript docs](https://www.typescriptlang.org/docs/) - TypeScript documentation
 - [TypeScript](https://www.udemy.com/course/understanding-typescript/) - Understanding TypeScript
 
-## Frameworks and library
+## Frameworks
 - [Ember.js](https://emberjs.com/) - Ember.js is a productive, battle-tested JavaScript framework for building modern web applications
 - [React](https://pl.react.dev/) - The library for web and native user interfaces
-- [React](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - React - The Complete Guide 2023 (incl. React Router & Redux)
+- [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - React - The Complete Guide 2023 (incl. React Router & Redux)
 - [Vite.js](https://vitejs.dev/guide/) - Tool to quickly start a project from a basic template for popular frameworks
 - [Next.js](https://nextjs.org/) - Is a React framework that gives you building blocks to create web applications
-- [Next.js 13 ](https://www.udemy.com/course-dashboard-redirect/?course_id=5094198) - The Next.js 13 Bootcamp - The Complete Developer Guide
+- [Next.js 13 course](https://www.udemy.com/course-dashboard-redirect/?course_id=5094198) - The Next.js 13 Bootcamp - The Complete Developer Guide
 
 ## Challenges
 - [Code Wars](https://www.codewars.com/) - Website that offers users the opportunity to learn coding skills from scratch
 - [Codepen Challenges](https://codepen.io/challenges) - Challenges are fun opportunities for leveling up your skills by building things.
-- [Dev Challenges]([https://www.codewars.com/](https://devchallenges.io/)) - Website that offers coding challenges and projects for developers to improve their skills, build their portfolios, and connect with other developers
+- [Dev Challenges](https://devchallenges.io/) - Website that offers coding challenges and projects for developers to improve their skills, build their portfolios, and connect with other developers
 - [CSS Battle](https://cssbattle.dev/) - is a fun, online game where players compete to create the closest visual match to a given design using HTML and CSS
 - [Javascript 30](https://javascript30.com/) - It’s a 30-day vanilla JS coding challenge
 
