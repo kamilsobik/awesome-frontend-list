@@ -23,13 +23,13 @@ Below you can find usefull links for frontend developer.
 
 ## JavaScript
 - [JavaScript DevDocs](https://devdocs.io/css/) - JavaScript documentation
-- [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/) - The Complete JavaScript Course 2023: From Zero to Expert!
+- [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) - The Complete JavaScript Course 2023: From Zero to Expert!
 - [Od Zera do JavaScript Developera](https://www.youtube.com/watch?v=LORNrvM4AzY) - Videos of 8 meetings to learn JavaScript from 0 to programmer
 - [JavaScript Info](https://javascript.info/) - Website that provides information about JavaScript, including tutorials, exercises, and references
 
 ## TypeScript
 - [TypeScript docs](https://www.typescriptlang.org/docs/) - TypeScript documentation
-- [TypeScript](https://www.udemy.com/course/understanding-typescript/) - Understanding TypeScript
+- [TypeScript course](https://www.udemy.com/course/understanding-typescript/) - Understanding TypeScript
 
 ## Frameworks
 - [Ember.js](https://emberjs.com/) - Ember.js is a productive, battle-tested JavaScript framework for building modern web applications
