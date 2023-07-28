@@ -57,3 +57,4 @@ Below you can find usefull links for frontend developer.
 - [JSON Cracker](https://jsoncrack.com/editor) - Seamlessly visualize your JSON instantly into graphs
 - [Can I use](https://caniuse.com) - Useful resource for checking browser support for different HTML, CSS, and JavaScript features
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Community of people from all around the world who are learning to code together
+- [Iconify](https://iconify.design/) - Very big icon datebase with SVG files
