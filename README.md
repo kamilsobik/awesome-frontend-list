@@ -23,9 +23,18 @@ Below you can find usefull links for frontend developer.
 
 ## JavaScript
 - [JavaScript DevDocs](https://devdocs.io/css/) - JavaScript documentation
+- [JavaScript roadmap]([https://devdocs.io/css/](https://roadmap.sh/javascript)) - JavaScript roadmap
 - [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) - The Complete JavaScript Course 2023: From Zero to Expert!
 - [Od Zera do JavaScript Developera](https://www.youtube.com/watch?v=LORNrvM4AzY) - Videos of 8 meetings to learn JavaScript from 0 to programmer
+- [Programowanie w JavaScript od Zera do Mastera](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=%2FS7qeUbCw0o&ranMID=47907&ranEAID=%2FS7qeUbCw0o&ranSiteID=_S7qeUbCw0o-3fp7mg6lvhUlWl8z4L80pA) - Programming course in JavaScript from Zero to Master
+- [The Complete Guide 2023](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=%2FS7qeUbCw0o&ranMID=47907&ranEAID=%2FS7qeUbCw0o&ranSiteID=_S7qeUbCw0o-F7eAObkWCa9IxzYWyypCTw) - JavaScript - The Complete Guide 2023 (Beginner + Advanced)
+- [Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=%2FS7qeUbCw0o&ranMID=47907&ranEAID=%2FS7qeUbCw0o&ranSiteID=_S7qeUbCw0o-6TfMHZxxHcZhTJv9QbQr1g) - An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more
+- [JavaScript Full Course (2023)](https://www.youtube.com/watch?v=SBmSRK3feww&ab_channel=SuperSimpleDev) - JavaScript Full Course (2023) - Beginner to Pro
 - [JavaScript Info](https://javascript.info/) - Website that provides information about JavaScript, including tutorials, exercises, and references
+- [web.dev](https://web.dev/) - Keep up to date with the lastest news from the major browser engines
+- [Eloquent JavaScript](https://eloquentjavascript.net/) - This is a book about JavaScript, programming, and the wonders of the digital
+- [ES2015+ cheatsheet](https://devhints.io/es6) - A quick overview of new JavaScript features in ES2015, ES2016, ES2017, ES2018 and beyond
+- [ECMAScript News](https://ecmascript.news/) - Stay up-to-date on JavaScript and tools
 
 ## TypeScript
 - [TypeScript docs](https://www.typescriptlang.org/docs/) - TypeScript documentation
