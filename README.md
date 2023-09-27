@@ -38,7 +38,10 @@ Below you can find usefull links for frontend developer.
 
 ## TypeScript
 - [TypeScript docs](https://www.typescriptlang.org/docs/) - TypeScript documentation
-- [TypeScript course](https://www.udemy.com/course/understanding-typescript/) - Understanding TypeScript
+- [Roadmap](https://roadmap.sh/typescript) - TypeScript roadmap
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) - Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more
+- [TypeScript the complete developers guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/) - Master Typescript by learning popular design patterns and building complex projects. Includes React and Express
+- [Learn Typescript tutorial - 3-hour interactive tutorial](https://scrimba.com/learn/typescript) - A hands-on course giving you the basics of TypeScript while you build a real-world-style couchsurfing app
 
 ## Frameworks
 - [Ember.js](https://emberjs.com/) - Ember.js is a productive, battle-tested JavaScript framework for building modern web applications
@@ -47,6 +50,7 @@ Below you can find usefull links for frontend developer.
 - [Vite.js](https://vitejs.dev/guide/) - Tool to quickly start a project from a basic template for popular frameworks
 - [Next.js](https://nextjs.org/) - Is a React framework that gives you building blocks to create web applications
 - [Next.js 13 course](https://www.udemy.com/course-dashboard-redirect/?course_id=5094198) - The Next.js 13 Bootcamp - The Complete Developer Guide
+- [Learn TypeScript – Full Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50) - Learn how to program with TypeScript in this full course for beginners. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript
 
 ## Challenges
 - [Code Wars](https://www.codewars.com/) - Website that offers users the opportunity to learn coding skills from scratch
