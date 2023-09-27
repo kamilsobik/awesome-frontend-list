@@ -23,7 +23,7 @@ Below you can find usefull links for frontend developer.
 
 ## JavaScript
 - [JavaScript DevDocs](https://devdocs.io/css/) - JavaScript documentation
-- [JavaScript roadmap]([https://devdocs.io/css/](https://roadmap.sh/javascript)) - JavaScript roadmap
+- [JavaScript roadmap](https://roadmap.sh/javascript) - JavaScript roadmap
 - [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) - The Complete JavaScript Course 2023: From Zero to Expert!
 - [Od Zera do JavaScript Developera](https://www.youtube.com/watch?v=LORNrvM4AzY) - Videos of 8 meetings to learn JavaScript from 0 to programmer
 - [Programowanie w JavaScript od Zera do Mastera](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/?utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=%2FS7qeUbCw0o&ranMID=47907&ranEAID=%2FS7qeUbCw0o&ranSiteID=_S7qeUbCw0o-3fp7mg6lvhUlWl8z4L80pA) - Programming course in JavaScript from Zero to Master
